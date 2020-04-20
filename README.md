@@ -1,6 +1,6 @@
 # Main-Memory-Algorithms
 
-Covers an emulation of the page-replacement algorithms like : First In First Out, Least Recently Used, Optimal, Second Chance, and Enhanced Second Chance.
+Covers an emulation of the page-replacement algorithms like : First In First Out, Least Recently Used, Optimal, Least Frequently Used, Second Chance, and Enhanced Second Chance.
 
 ### Reference
 
